@@ -18,7 +18,7 @@ An end-to-end data analytics project using **SQL (SQLite)** and **Power BI** to 
 
 ## Dataset
 
-Six tables stored in `aviation_logistics.db` (SQLite):
+Six tables stored in a SQLite database (aviation_logistics.zip; unzip to get aviation_logistics.db):
 
 | Table | Rows | Description |
 |---|---|---|
@@ -129,7 +129,7 @@ SQL (SQLite) · Power BI Desktop
 ## Repository Structure
 
 ```
-├── aviation_logistics.db
+├── aviation_logistics.zip # SQLite database (unzip to use)
 ├── data_quality_checks.sql      # data quality checks + 10 business queries
 ├── Aviation_Logistics_Dashboard.pbix
 ├── screenshots/
